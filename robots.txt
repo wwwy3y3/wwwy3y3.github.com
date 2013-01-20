@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://wwwy3y3.github.com/sitemap.xml 

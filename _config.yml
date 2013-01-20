@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://wwwy3y3.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: William.C Blog
+subtitle: All cool stuff I'm interested in
+author: wwwy3y3
 simple_search: http://google.com/search
 description:
 
@@ -58,8 +58,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: wwwy3y3
+github_repo_count: 3
 github_show_profile_link: true
 github_skip_forks: true
 
@@ -81,7 +81,7 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
+pinboard_user: wwwy3y3
 pinboard_count: 3
 
 # Delicious
@@ -89,11 +89,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: wwwy3y3blog
+disqus_show_comment_count: 5
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-37817732-1
 
 # Facebook Like
 facebook_like: false
